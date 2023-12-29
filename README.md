@@ -1,15 +1,15 @@
 # The East is Red
 submod for CWP for Victoria 3
-![logo](logo.png)
+
+<img src="logo.png" alt="drawing" width="300"/>
 
 Game Version: 1.4
 ## current version: 0.05.49
-
-	versions are x.y.z
-	x = 1 at release, 0 before
-	y = how many points we have
-	z = how many total points
-	all numbers ordinal, not cardinal
+versions are x.y.z
+x = 1 at release, 0 before
+y = how many features have been added
+z = how many features are planned
+all numbers ordinal, not cardinal
 
 This mod aims to expand the mechanics for the socialist countries in the game including alternate technologies and production methods that were not explored in our time line for one reason or another.
 
