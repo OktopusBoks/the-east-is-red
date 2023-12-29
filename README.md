@@ -23,7 +23,7 @@ TOTAL POINTS : 49
 
 
 - [ ] Laws  27 points
-	- [ ] Quotas  12 points
+	- [ ] Quotas  12 points  
 		Many countries both socialist and capitalist implement(ed) quotas in their legislatures for certain minority groups. Women being the most typical example. Quotas in this submod are divided into Gender, Ethnic, and Worker.
 
 		Socialist countries in the past and present often have a specific number of their seats reserved for trade union federations, women's federations, farmers unions, etc. These are what are represented by the workers quotas.
