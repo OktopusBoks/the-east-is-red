@@ -4,7 +4,7 @@ submod for CWP for Victoria 3
 <img src="logo.png" alt="drawing" width="300"/>  
 
 Game Version: 1.4  
-## current version: 0.05.49  
+## current version: 0.08.49  
 versions are x.y.z  
 x = 1 at release, 0 before  
 y = how many features have been added  
@@ -94,7 +94,7 @@ TOTAL POINTS : 49
 		- [ ] GPS
 		- [ ] Cybersyn
 	- [ ] New Buildings  9 points
-		- [ ] Rocket Factory
+		- [x] Rocket Factory
 		- [ ] Launch Site
 			- [ ] standard
 			- [ ] shuttle
@@ -104,8 +104,8 @@ TOTAL POINTS : 49
 			- [ ] Computer Handwriting Recognition production method
 			- [ ] Vaccum tube production method
 	- [ ] New Production Methods  3 points
-		- [ ] Thorium Reactor (nuclear power)
-		- [ ] Breeder Reactor (nuclear power)
+		- [x] Thorium Reactor (nuclear power)
+		- [x] Breeder Reactor (nuclear power)
 		- [ ] Cybernetics (all industries)
 		- [x] Alternate Protein (food industries)
 
