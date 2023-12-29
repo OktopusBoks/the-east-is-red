@@ -1,15 +1,15 @@
-# The East is Red
-submod for CWP for Victoria 3
+# The East is Red  
+submod for CWP for Victoria 3  
 
-<img src="logo.png" alt="drawing" width="300"/>
+<img src="logo.png" alt="drawing" width="300"/>  
 
-Game Version: 1.4
-## current version: 0.05.49
-versions are x.y.z
-x = 1 at release, 0 before
-y = how many features have been added
-z = how many features are planned
-all numbers ordinal, not cardinal
+Game Version: 1.4  
+## current version: 0.05.49  
+versions are x.y.z  
+x = 1 at release, 0 before  
+y = how many features have been added  
+z = how many features are planned  
+all numbers ordinal, not cardinal  
 
 This mod aims to expand the mechanics for the socialist countries in the game including alternate technologies and production methods that were not explored in our time line for one reason or another.
 
@@ -50,7 +50,7 @@ TOTAL POINTS : 49
 			- [ ] no quotas
 			- [ ] trade union federation seats
 
-	- [ ] Sortition  3 points
+	- [ ] Sortition  3 points  
 		Sortition is picking government seats by lottery. It is the original meaning of the word "democracy". Elections were historically seen as tools for aristocrats and simple popularily contests to placate the masses. Many have returned to the idea as a way of solving the problems of modern politics.
 
 		There were multiple ways sortition was handled.
@@ -58,36 +58,36 @@ TOTAL POINTS : 49
 		- [ ] Sortition among winners (a single winner out of multiple is randomly chosen)
 		- [ ] Sortition (jury duty style)
 
-	- [ ] Boarding Schools
+	- [ ] Boarding Schools  
 		many socialist and anarchist projects sought to destroy the oppressive and patriarchal family unit by communally raising children in large daycare/schools  1 points
 
-	- [ ] Electoral Campaigns  4 points
+	- [ ] Electoral Campaigns  4 points  
 		- [ ] None
-		- [ ] Neighborhood Delegate Nominations
+		- [ ] Neighborhood Delegate Nominations  
 			(Cuba has this system)
-		- [ ] Publicly Funded Elections
+		- [ ] Publicly Funded Elections  
 			(New Zealand has this system)
-		- [ ] Private Campaign Contributions
+		- [ ] Private Campaign Contributions  
 			(The United States has this to the extreme, bribery is basically legal.)
 
-	- [ ] Electoral Districts  5 points
+	- [ ] Electoral Districts  5 points  
 		- [ ] Gerrymandering
 		- [ ] Independent Committee
 		- [ ] Shortest Split-Line
 		- [ ] Historical Boundaries
 		- [ ] Single nation-wide district
 
-	- [ ] Banking  3 points
+	- [ ] Banking  3 points  
 		- [ ] Private retail banking
 		- [ ] Postal banking
 		- [ ] State controlled banking
 
-- [ ] Institutions  1 points
-	- [ ] boarding schools
+- [ ] Institutions  1 points  
+	- [ ] boarding schools  
 		(See law)
 
-- [ ] Buildings  17 points
-	- [ ] Mega projects  5 points
+- [ ] Buildings  17 points  
+	- [ ] Mega projects  5 points  
 		- [x] Solar Satellite Array
 		- [x] Spirulina Farms
 		- [ ] Orbiting Telescope
