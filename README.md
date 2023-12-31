@@ -4,7 +4,7 @@ submod for CWP for Victoria 3
 <img src="logo.png" alt="drawing" width="300"/>  
 
 Game Version: 1.4  
-## current version: 0.08.49  
+## current version: 0.08.51  
 versions are x.y.z  
 x = 1 at release, 0 before  
 y = how many features have been added  
@@ -19,10 +19,10 @@ Socialist mega projects, cybernetics, transformations of government, and many ot
 
 
 
-TOTAL POINTS : 49
+TOTAL POINTS : 51
 
 
-- [ ] Laws  27 points
+- [ ] Laws  29 points
 	- [ ] Quotas  12 points  
 		Many countries both socialist and capitalist implement(ed) quotas in their legislatures for certain minority groups. Women being the most typical example. Quotas in this submod are divided into Gender, Ethnic, and Worker.
 
@@ -43,12 +43,12 @@ TOTAL POINTS : 49
 		- [ ] ethnicities  3 points
 			- [ ] only main ethnic group (South  Africa, Israel)
 			- [ ] no quotas
-			- [ ] proportional quotas
+			- [ ] proportional quotas (USSR)
 		- [ ] workers  4 points
 			- [ ] Landed aristocrats have seats (House of Lords)
 			- [ ] corporations have seats (modern and historic Hong Kong does this)
 			- [ ] no quotas
-			- [ ] trade union federation seats
+			- [ ] trade union federation seats (modern Cuba, DDR)
 
 	- [ ] Sortition  3 points  
 		Sortition is picking government seats by lottery. It is the original meaning of the word "democracy". Elections were historically seen as tools for aristocrats and simple popularily contests to placate the masses. Many have returned to the idea as a way of solving the problems of modern politics.
@@ -71,16 +71,19 @@ TOTAL POINTS : 49
 			(The United States has this to the extreme, bribery is basically legal.)
 
 	- [ ] Electoral Districts  5 points  
-		- [ ] Gerrymandering
+		- [ ] Gerrymandering (United States)
 		- [ ] Independent Committee
 		- [ ] Shortest Split-Line
 		- [ ] Historical Boundaries
-		- [ ] Single nation-wide district
+		- [ ] Single nation-wide district (Israel, Netherlands)
 
 	- [ ] Banking  3 points  
-		- [ ] Private retail banking
+		- [ ] Private retail banking (United States)
 		- [ ] Postal banking
 		- [ ] State controlled banking
+  	- [ ] Recall  2 points  
+  		- [ ] No recall (representatives can not be recalled at any time, most capitalist countries)  
+  		- [ ] Recall (delegates can be recalled from their posisition at any time) (Cuba, USSR, some US states like California) 	
 
 - [ ] Institutions  1 points  
 	- [ ] boarding schools  
