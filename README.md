@@ -4,7 +4,7 @@ submod for CWP for Victoria 3
 <img src="logo.png" alt="drawing" width="300"/>  
 
 Game Version: 1.4  
-## current version: 0.08.51  
+## current version: 0.18.52  
 versions are x.y.z  
 x = 1 at release, 0 before  
 y = how many features have been added  
@@ -19,7 +19,7 @@ Socialist mega projects, cybernetics, transformations of government, and many ot
 
 
 
-TOTAL POINTS : 51
+TOTAL POINTS : 52
 
 
 - [ ] Laws  29 points
@@ -89,7 +89,7 @@ TOTAL POINTS : 51
 	- [ ] boarding schools  
 		(See law)
 
-- [ ] Buildings  17 points  
+- [ ] Buildings  18 points  
 	- [ ] Mega projects  5 points  
 		- [x] Solar Satellite Array
 		- [x] Spirulina Farms
@@ -97,19 +97,19 @@ TOTAL POINTS : 51
 		- [ ] GPS
 		- [ ] Cybersyn
 	- [ ] New Buildings  9 points
-		- [x] Rocket Factory
-		- [ ] Launch Site
-			- [ ] standard
-			- [ ] shuttle
-			- [ ] re-usable rocket
-		- [ ] Post Office
-			- [ ] Email production method
+		- [x] REMOVED Rocket Factory
+		- [x] REMOVED Launch Site
+			- [x] REMOVED standard
+			- [x] REMOVED shuttle
+			- [x] REMOVED re-usable rocket
+		- [x] Post Office
+			- [x] Email production method
 			- [ ] Computer Handwriting Recognition production method
-			- [ ] Vaccum tube production method
-	- [ ] New Production Methods  3 points
+			- [x] REMOVED Vaccum tube production method
+	- [x] New Production Methods  4 points
 		- [x] Thorium Reactor (nuclear power)
 		- [x] Breeder Reactor (nuclear power)
-		- [ ] Cybernetics (all industries)
+		- [x] Cybernetics (all industries)
 		- [x] Alternate Protein (food industries)
 
 - [x] Goods  4 points
