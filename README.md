@@ -7,7 +7,7 @@ submod for CWP for Victoria 3
 submod for #CWP for #Victoria3  
 
 Game Version: 1.4  
-## current version: 0.24.78  
+## current version: 0.97.112  
 versions are x.y.z  
 x = 1 at release, 0 before  
 y = how many features have been added  
@@ -20,10 +20,10 @@ Many of the additions are not unique to the socialist countries but are inspired
 
 Socialist mega projects, cybernetics, transformations of government, and many other things are added. Largely these ideas come from contemporary socialist movements or previous socialist experiments.
 
-TOTAL POINTS : 78
+TOTAL POINTS : 112
 
-- [ ] Laws  32 points
-	- [ ] Quotas  15 points  
+- [X] Laws  33 points
+	- [x] Quotas  15 points  
 		Many countries both socialist and capitalist implement(ed) quotas in their legislatures for certain minority groups. Women being the most typical example. Quotas in this submod are divided into Gender, Ethnic, and Worker.
 
 		Socialist countries in the past and present often have a specific number of their seats reserved for trade union federations, women's federations, farmers unions, etc. These are what are represented by the workers quotas.
@@ -40,10 +40,10 @@ TOTAL POINTS : 78
 			- [x] 1/4 women
 			- [x] half women
 			- [x] only women
-		- [ ] ethnicities  3 points
-			- [ ] only main ethnic group (South  Africa, Israel)
-			- [ ] no quotas
-			- [ ] proportional quotas (USSR)
+		- [x] REMOVED ethnicities  3 points
+			- [x] REMOVED only main ethnic group (South  Africa, Israel)
+			- [x] REMOVED no quotas
+			- [x] REMOVED proportional quotas (USSR)
 		- [x] workers  6 points
 			- [x] Landed aristocrats have seats (House of Lords)
 			- [x] corporations have seats (modern and historic Hong Kong does this)
@@ -52,44 +52,45 @@ TOTAL POINTS : 78
 			- [x] farmers and workers
 			- [x] farmers
 
-	- [ ] Sortition  3 points  
+	- [x] Sortition  3 points  
 		Sortition is picking government seats by lottery. It is the original meaning of the word "democracy". Elections were historically seen as tools for aristocrats and simple popularily contests to placate the masses. Many have returned to the idea as a way of solving the problems of modern politics.
 
 		There were multiple ways sortition was handled.
-		- [ ] No sortition
-		- [ ] Sortition among winners (a single winner out of multiple is randomly chosen)
-		- [ ] Sortition (jury duty style)
+		- [x] No sortition
+		- [x] REMOVED Sortition among winners (a single winner out of multiple is randomly chosen)
+		- [x] Sortition (jury duty style)
 
-	- [ ] Boarding Schools  
+	- [x] REMOVED Boarding Schools  
 		many socialist and anarchist projects sought to destroy the oppressive and patriarchal family unit by communally raising children in large daycare/schools  1 points
 
-	- [ ] Electoral Campaigns  4 points  
-		- [ ] None
-		- [ ] Neighborhood Delegate Nominations  
+	- [x] Electoral Campaigns  4 points  
+		- [x] None
+		- [x] Neighborhood Delegate Nominations  
 			(Cuba has this system)
-		- [ ] Publicly Funded Elections  
+		- [x] Publicly Funded Elections  
 			(New Zealand has this system)
-		- [ ] Private Campaign Contributions  
+		- [x] Private Campaign Contributions  
 			(The United States has this to the extreme, bribery is basically legal.)
 
-	- [ ] Electoral Districts  5 points  
-		- [ ] Gerrymandering (United States)
-		- [ ] Independent Committee
-		- [ ] Shortest Split-Line
-		- [ ] Historical Boundaries
-		- [ ] Single nation-wide district (Israel, Netherlands)
+	- [x] REMOVED Electoral Districts  5 points  
+		- [x] REMOVED Gerrymandering (United States)
+		- [x] REMOVED Independent Committee
+		- [x] REMOVED Shortest Split-Line
+		- [x] REMOVED Historical Boundaries
+		- [x] REMOVED Single nation-wide district (Israel, Netherlands)
 
-	- [ ] Banking  3 points  
-		- [ ] Private retail banking (United States)
-		- [ ] Postal banking
-		- [ ] State controlled banking
+	- [x] Banking  4 points  
+		- [x] Private retail banking (United States)
+		- [x] Postal banking
+		- [x] State controlled banking
+		- [x] Competing Currencies
 
-	- [ ] Recall  2 points  
-		- [ ] No recall (representatives can not be recalled at any time, most capitalist countries)  
-		- [ ] Recall (delegates can be recalled from their posisition at any time) (Cuba, USSR, some US states like California) 	
+	- [x] Recall  2 points  
+		- [x] No recall (representatives can not be recalled at any time, most capitalist countries)  
+		- [x] Recall (delegates can be recalled from their posisition at any time) (Cuba, USSR, some US states like California) 	
 
-- [ ] Institutions  1 points  
-	- [ ] boarding schools  
+- [x] Institutions REMOVED  1 points  
+	- [x] boarding schools REMOVED  
 		(See law)
 
 - [ ] Buildings  18 points  
@@ -124,42 +125,42 @@ TOTAL POINTS : 78
 - [ ] Pop needs
 	- [ ] Deliveries
 
-- [ ] Pop Law support
-	- [ ] Quotas
-		- [ ] Workers (workers)
-		- [ ] Worker Farmers (workers, ruralists)
-		- [ ] Farmers (ruralists)
-		- [ ] Corporations (entrepreneurs, capitalists)
-		- [ ] Landlords (landlords)
-		- [ ] None (intelligensia)
-	- [ ] Electoral Districts
-		- [ ] Gerrymandering
-		- [ ] Independent Committee (bureaucrats)
-		- [ ] Shortest Splitline (intelligensia)
-		- [ ] Historical Boundaries
-		- [ ] Single district
-	- [ ] Banking
-		- [ ] Retail (captialists, entrepreneurs)
-		- [ ] Postal (informal workers, workers, ruralists)
-		- [ ] State monopoly (workers)
-	- [ ] Recall
-		- [ ] No recall (corporations, entrepreneurs, military)
-		- [ ] Recall (workers, farmers)
+- [x] Pop Law support
+	- [x] Quotas
+		- [x] Workers (workers)
+		- [x] Worker Farmers (workers, ruralists)
+		- [x] Farmers (ruralists)
+		- [x] Corporations (entrepreneurs, capitalists)
+		- [x] Landlords (landlords)
+		- [x] None (intelligensia)
+	- [x] REMOVED Electoral Districts
+		- [x] REMOVED Gerrymandering
+		- [x] REMOVED Independent Committee (bureaucrats)
+		- [x] REMOVED Shortest Splitline (intelligensia)
+		- [x] REMOVED Historical Boundaries
+		- [x] REMOVED Single district
+	- [x] Banking
+		- [x] Retail (captialists, entrepreneurs)
+		- [x] Postal (informal workers, workers, ruralists)
+		- [x] State monopoly (workers)
+	- [x] Recall
+		- [x] No recall (corporations, entrepreneurs, military)
+		- [x] Recall (workers, farmers)
 
 - [ ] Art
-	- [X] Laws
-		- [X] Quotas
-			- [X] Workers
-			- [X] Farmer Labor
-			- [X] Farmers
-			- [X] None
-			- [X] Corporations
-			- [X] landlords
-			- [X] Men only
-			- [X] 1/4 women
-			- [X] 1/2 women
-			- [X] Women only
-			- [X] None
+	- [ ] Laws
+		- [x] Quotas
+			- [x] Workers
+			- [x] Farmer Labor
+			- [x] Farmers
+			- [x] None
+			- [x] Corporations
+			- [x] landlords
+			- [x] Men only
+			- [x] 1/4 women
+			- [x] 1/2 women
+			- [x] Women only
+			- [x] None
 	- [ ] Goods
 		- [ ] Alt Protein
 		- [ ] Deliveries
